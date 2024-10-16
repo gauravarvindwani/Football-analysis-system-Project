@@ -22,7 +22,7 @@ def main():
     #     # crop bbox from frame
     #     cropped_image = frame[int(bbox[1]):int(bbox[3]), int(bbox[0]):int(bbox[2])]
         
-    #     # save the croppd image
+    #     # save the croppd image 
     #     cv2.imwrite(f'output_videos/cropped_image.jpg', cropped_image)
         
         
